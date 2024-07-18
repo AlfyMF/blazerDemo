@@ -3,7 +3,7 @@ on: push
 
 jobs:
   build:
-    runs-on: macos
+    runs-on: macos-latest
     steps:
         # Checkout the code
         - uses: actions/checkout@v2
