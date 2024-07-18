@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("blazerDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07c689bc0f05969671eaadf45c12c6ab3cc5982b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4813ed175b8ae5e5be9f2fcb0e2bd2067ce064da")]
 [assembly: System.Reflection.AssemblyProductAttribute("blazerDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("blazerDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
